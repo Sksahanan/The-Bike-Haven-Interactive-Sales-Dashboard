@@ -2,6 +2,9 @@
 **Goal:** The Bike Haven, a thriving bike shop in San Francisco, needs to revamp its static sales reports to gain a deeper understanding of their sales performance. They require an interactive dashboard that provides insights into various sales metrics. 
 By creating this interactive dashboard, you will empower Chris, the Sales Manager, to make data-driven decisions to optimize sales strategies, identify growth opportunities, and improve customer relationships. 
 
+**Dashboard Link**
+https://public.tableau.com/views/TheBikeHaven_17115339787040/SalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 **Approach:** 
   1. Data Integration & Cleaning: Extract sales data from PostgreSQL (7 tables). Consolidate and clean data for analysis. Export to CSV for Tableau.
   2. Interactive Visualizations: Top Selling Products & Customers. Sales vs. Budget Comparison. Regional & Category Performance Analysis.Drill-Down Filters for Deeper Insights. 
@@ -32,4 +35,9 @@ Identify sales trends and growth opportunities. Build stronger relationships wit
   * Regional Optimization: Tailor marketing & inventory based on regional performance.
   * Top Customer Engagement: Strengthen relationships with high-spending customers. 
 
-By focusing on these insights, The Bike Haven can strategically drive sales growth, improve customer satisfaction, and expand its market presence.   
+By focusing on these insights, The Bike Haven can strategically drive sales growth, improve customer satisfaction, and expand its market presence.  
+
+**Dashboard Preview**
+<img width="935" alt="Sales Dashboard" src="https://github.com/Sksahanan/Credit-Card-Performance-Growth-Initiative/assets/171436562/8ada2c11-d71e-4cc5-8a2e-2ffa83dfd802">
+<img width="935" alt="Customer Dashboard" src="https://github.com/Sksahanan/Credit-Card-Performance-Growth-Initiative/assets/171436562/a299edb7-05d6-42c3-bdb8-cc7207ea3af3">
+<img width="935" alt="Product DashBoard" src="https://github.com/Sksahanan/Credit-Card-Performance-Growth-Initiative/assets/171436562/90890984-0114-4d0a-9952-841fde212e07">
